@@ -1,0 +1,23 @@
+{
+  "name": "api-express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebTestMan/api-Express.git"
+  },
+  "author": "mark gh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebTestMan/api-Express/issues"
+  },
+  "homepage": "https://github.com/WebTestMan/api-Express#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
